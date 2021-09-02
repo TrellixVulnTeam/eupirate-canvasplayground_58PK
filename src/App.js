@@ -3,9 +3,9 @@ import "./App.css";
 import * as React from "react";
 import { SecondaryButton } from "@workday/canvas-kit-react";
 
-function clickMe() {
-  alert("Click me to vote!");
-}
+// function clickMe() {
+//   alert("Click me to vote!");
+// }
 
 function App() {
   return (
