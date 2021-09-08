@@ -2,7 +2,6 @@ import logo from "./logo.svg";
 import "./App.scss";
 import * as React from "react";
 import { SecondaryButton } from "@workday/canvas-kit-react";
-import "@workday/canvas-kit-css/index.scss";
 
 // function clickMe() {
 //   alert("Click me to vote!");
